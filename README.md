@@ -7,6 +7,7 @@ This project presents an interactive Power BI dashboard that analyzes Blinkit's 
 - Total Sales:     $1.20M  
 - Average Sales:   $140.99  
 - Average Rating:  3.92  
+
 **Visual Insights**
 - Sales by 'Outlet Establishment Year'
 - Item distribution by 'Fat Content', 'Item Type', and 'Outlet Type'
